@@ -1,0 +1,242 @@
+[
+  {
+    "Id": 1,
+    "Name": "F. Scott Fitzgerald",
+    "BirthDate": "1896-09-24",
+    "Nationality": "American"
+  },
+  {
+    "Id": 2,
+    "Name": "Harper Lee",
+    "BirthDate": "1926-04-28",
+    "Nationality": "American"
+  },
+  {
+    "Id": 3,
+    "Name": "George Orwell",
+    "BirthDate": "1903-06-25",
+    "Nationality": "British"
+  },
+  {
+    "Id": 4,
+    "Name": "Jane Austen",
+    "BirthDate": "1775-12-16",
+    "Nationality": "British"
+  },
+  {
+    "Id": 5,
+    "Name": "J.K. Rowling",
+    "BirthDate": "1965-07-31",
+    "Nationality": "British"
+  },
+  {
+    "Id": 6,
+    "Name": "J.D. Salinger",
+    "BirthDate": "1919-01-01",
+    "Nationality": "American"
+  },
+  {
+    "Id": 7,
+    "Name": "J.R.R. Tolkien",
+    "BirthDate": "1892-01-03",
+    "Nationality": "British"
+  },
+  {
+    "Id": 8,
+    "Name": "Leo Tolstoy",
+    "BirthDate": "1828-09-09",
+    "Nationality": "Russian"
+  },
+  {
+    "Id": 9,
+    "Name": "Herman Melville",
+    "BirthDate": "1819-08-01",
+    "Nationality": "American"
+  },
+  {
+    "Id": 10,
+    "Name": "Paulo Coelho",
+    "BirthDate": "1947-08-24",
+    "Nationality": "Brazilian"
+  },
+  {
+    "Id": 11,
+    "Name": "Dan Brown",
+    "BirthDate": "1964-06-22",
+    "Nationality": "American"
+  },
+  {
+    "Id": 12,
+    "Name": "Miguel de Cervantes",
+    "BirthDate": "1547-09-29",
+    "Nationality": "Spanish"
+  },
+  {
+    "Id": 13,
+    "Name": "Stephen King",
+    "BirthDate": "1947-09-21",
+    "Nationality": "American"
+  },
+  {
+    "Id": 14,
+    "Name": "Suzanne Collins",
+    "BirthDate": "1962-08-10",
+    "Nationality": "American"
+  },
+  {
+    "Id": 15,
+    "Name": "Cormac McCarthy",
+    "BirthDate": "1933-07-20",
+    "Nationality": "American"
+  },
+  {
+    "Id": 16,
+    "Name": "Homer",
+    "BirthDate": "8th century BC",
+    "Nationality": "Greek"
+  },
+  {
+    "Id": 17,
+    "Name": "Bram Stoker",
+    "BirthDate": "1847-11-08",
+    "Nationality": "Irish"
+  },
+  {
+    "Id": 18,
+    "Name": "Mary Shelley",
+    "BirthDate": "1797-08-30",
+    "Nationality": "British"
+  },
+  {
+    "Id": 19,
+    "Name": "Antoine de Saint-Exupéry",
+    "BirthDate": "1900-06-29",
+    "Nationality": "French"
+  },
+  {
+    "Id": 20,
+    "Name": "Arthur Conan Doyle",
+    "BirthDate": "1859-05-22",
+    "Nationality": "British"
+  },
+  {
+    "Id": 21,
+    "Name": "Gabriel García Márquez",
+    "BirthDate": "1927-03-06",
+    "Nationality": "Colombian"
+  },
+  {
+    "Id": 22,
+    "Name": "Fyodor Dostoevsky",
+    "BirthDate": "1821-11-11",
+    "Nationality": "Russian"
+  },
+  {
+    "Id": 23,
+    "Name": "Agatha Christie",
+    "BirthDate": "1890-09-15",
+    "Nationality": "British"
+  },
+  {
+    "Id": 24,
+    "Name": "H.G. Wells",
+    "BirthDate": "1866-09-21",
+    "Nationality": "British"
+  },
+  {
+    "Id": 25,
+    "Name": "Mark Twain",
+    "BirthDate": "1835-11-30",
+    "Nationality": "American"
+  },
+  {
+    "Id": 26,
+    "Name": "Aldous Huxley",
+    "BirthDate": "1894-07-26",
+    "Nationality": "British"
+  },
+  {
+    "Id": 27,
+    "Name": "Ray Bradbury",
+    "BirthDate": "1920-08-22",
+    "Nationality": "American"
+  },
+  {
+    "Id": 28,
+    "Name": "Jules Verne",
+    "BirthDate": "1828-02-08",
+    "Nationality": "French"
+  },
+  {
+    "Id": 29,
+    "Name": "George R.R. Martin",
+    "BirthDate": "1948-09-20",
+    "Nationality": "American"
+  },
+  {
+    "Id": 30,
+    "Name": "Johann David Wyss",
+    "BirthDate": "1743-03-28",
+    "Nationality": "Swiss"
+  },
+  {
+    "Id": 31,
+    "Name": "L. Frank Baum",
+    "BirthDate": "1856-05-15",
+    "Nationality": "American"
+  },
+  {
+    "Id": 32,
+    "Name": "Lewis Carroll",
+    "BirthDate": "1832-01-27",
+    "Nationality": "British"
+  },
+  {
+    "Id": 33,
+    "Name": "Roald Dahl",
+    "BirthDate": "1916-09-13",
+    "Nationality": "British"
+  },
+  {
+    "Id": 34,
+    "Name": "H.G. Wells",
+    "BirthDate": "1866-09-21",
+    "Nationality": "British"
+  },
+  {
+    "Id": 35,
+    "Name": "Mark Twain",
+    "BirthDate": "1835-11-30",
+    "Nationality": "American"
+  },
+  {
+    "Id": 36,
+    "Name": "Aldous Huxley",
+    "BirthDate": "1894-07-26",
+    "Nationality": "British"
+  },
+  {
+    "Id": 37,
+    "Name": "Ray Bradbury",
+    "BirthDate": "1920-08-22",
+    "Nationality": "American"
+  },
+  {
+    "Id": 38,
+    "Name": "Johann David Wyss",
+    "BirthDate": "1743-03-28",
+    "Nationality": "Swiss"
+  },
+  {
+    "Id": 39,
+    "Name": "L. Frank Baum",
+    "BirthDate": "1856-05-15",
+    "Nationality": "American"
+  },
+  {
+    "Id": 40,
+    "Name": "Lewis Carroll",
+    "BirthDate": "1832-01-27",
+    "Nationality": "British"
+  }
+]

@@ -1,0 +1,331 @@
+[
+  {
+    "Id": 1,
+    "Title": "The Great Gatsby",
+    "AuthorId": 1,
+    "PageCount": 218,
+    "ReleaseDate": "1925-04-10"
+  },
+  {
+    "Id": 2,
+    "Title": "To Kill a Mockingbird",
+    "AuthorId": 2,
+    "PageCount": 281,
+    "ReleaseDate": "1960-07-11"
+  },
+  {
+    "Id": 3,
+    "Title": "1984",
+    "AuthorId": 3,
+    "PageCount": 328,
+    "ReleaseDate": "1949-06-08"
+  },
+  {
+    "Id": 4,
+    "Title": "Pride and Prejudice",
+    "AuthorId": 4,
+    "PageCount": 279,
+    "ReleaseDate": "1813-01-28"
+  },
+  {
+    "Id": 5,
+    "Title": "Harry Potter and the Philosopher's Stone",
+    "AuthorId": 5,
+    "PageCount": 223,
+    "ReleaseDate": "1997-06-26"
+  },
+  {
+    "Id": 6,
+    "Title": "The Catcher in the Rye",
+    "AuthorId": 6,
+    "PageCount": 277,
+    "ReleaseDate": "1951-07-16"
+  },
+  {
+    "Id": 7,
+    "Title": "Lord of the Rings",
+    "AuthorId": 7,
+    "PageCount": 1178,
+    "ReleaseDate": "1954-07-29"
+  },
+  {
+    "Id": 8,
+    "Title": "War and Peace",
+    "AuthorId": 8,
+    "PageCount": 1444,
+    "ReleaseDate": "1869-01-20"
+  },
+  {
+    "Id": 9,
+    "Title": "Moby-Dick",
+    "AuthorId": 9,
+    "PageCount": 635,
+    "ReleaseDate": "1851-10-18"
+  },
+  {
+    "Id": 10,
+    "Title": "The Hobbit",
+    "AuthorId": 7,
+    "PageCount": 310,
+    "ReleaseDate": "1937-09-21"
+  },
+  {
+    "Id": 11,
+    "Title": "The Alchemist",
+    "AuthorId": 10,
+    "PageCount": 197,
+    "ReleaseDate": "1988-01-01"
+  },
+  {
+    "Id": 12,
+    "Title": "The Da Vinci Code",
+    "AuthorId": 11,
+    "PageCount": 454,
+    "ReleaseDate": "2003-03-18"
+  },
+  {
+    "Id": 13,
+    "Title": "Don Quixote",
+    "AuthorId": 12,
+    "PageCount": 863,
+    "ReleaseDate": "1605-01-16"
+  },
+  {
+    "Id": 14,
+    "Title": "The Shining",
+    "AuthorId": 13,
+    "PageCount": 447,
+    "ReleaseDate": "1977-01-28"
+  },
+  {
+    "Id": 15,
+    "Title": "The Hunger Games",
+    "AuthorId": 14,
+    "PageCount": 374,
+    "ReleaseDate": "2008-09-14"
+  },
+  {
+    "Id": 16,
+    "Title": "The Road",
+    "AuthorId": 15,
+    "PageCount": 287,
+    "ReleaseDate": "2006-09-26"
+  },
+  {
+    "Id": 17,
+    "Title": "The Odyssey",
+    "AuthorId": 16,
+    "PageCount": 299,
+    "ReleaseDate": "8th century BC"
+  },
+  {
+    "Id": 18,
+    "Title": "Dracula",
+    "AuthorId": 17,
+    "PageCount": 418,
+    "ReleaseDate": "1897-05-26"
+  },
+  {
+    "Id": 19,
+    "Title": "Frankenstein",
+    "AuthorId": 18,
+    "PageCount": 280,
+    "ReleaseDate": "1818-01-01"
+  },
+  {
+    "Id": 20,
+    "Title": "The Little Prince",
+    "AuthorId": 19,
+    "PageCount": 96,
+    "ReleaseDate": "1943-04-06"
+  },
+  {
+    "Id": 21,
+    "Title": "The Adventures of Sherlock Holmes",
+    "AuthorId": 20,
+    "PageCount": 307,
+    "ReleaseDate": "1892-10-14"
+  },
+  {
+    "Id": 22,
+    "Title": "One Hundred Years of Solitude",
+    "AuthorId": 21,
+    "PageCount": 422,
+    "ReleaseDate": "1967-05-30"
+  },
+  {
+    "Id": 23,
+    "Title": "Crime and Punishment",
+    "AuthorId": 22,
+    "PageCount": 671,
+    "ReleaseDate": "1866-01-12"
+  },
+  {
+    "Id": 24,
+    "Title": "Around the World in 80 Days",
+    "AuthorId": 23,
+    "PageCount": 231,
+    "ReleaseDate": "1873-01-30"
+  },
+  {
+    "Id": 25,
+    "Title": "The Picture of Dorian Gray",
+    "AuthorId": 24,
+    "PageCount": 198,
+    "ReleaseDate": "1890-07-01"
+  },
+  {
+    "Id": 26,
+    "Title": "Alice's Adventures in Wonderland",
+    "AuthorId": 25,
+    "PageCount": 200,
+    "ReleaseDate": "1865-07-04"
+  },
+  {
+    "Id": 27,
+    "Title": "Charlie and the Chocolate Factory",
+    "AuthorId": 26,
+    "PageCount": 155,
+    "ReleaseDate": "1964-01-17"
+  },
+  {
+    "Id": 28,
+    "Title": "The Time Machine",
+    "AuthorId": 27,
+    "PageCount": 84,
+    "ReleaseDate": "1895-05-07"
+  },
+  {
+    "Id": 29,
+    "Title": "The Adventures of Tom Sawyer",
+    "AuthorId": 28,
+    "PageCount": 275,
+    "ReleaseDate": "1876-12-01"
+  },
+  {
+    "Id": 30,
+    "Title": "Brave New World",
+    "AuthorId": 29,
+    "PageCount": 259,
+    "ReleaseDate": "1932-01-01"
+  },
+  {
+    "Id": 31,
+    "Title": "A Tale of Two Cities",
+    "AuthorId": 30,
+    "PageCount": 337,
+    "ReleaseDate": "1859-04-30"
+  },
+  {
+    "Id": 32,
+    "Title": "The Chronicles of Narnia",
+    "AuthorId": 31,
+    "PageCount": 767,
+    "ReleaseDate": "1950-10-16"
+  },
+  {
+    "Id": 33,
+    "Title": "The Sun Also Rises",
+    "AuthorId": 32,
+    "PageCount": 260,
+    "ReleaseDate": "1926-10-22"
+  },
+  {
+    "Id": 34,
+    "Title": "The Grapes of Wrath",
+    "AuthorId": 33,
+    "PageCount": 464,
+    "ReleaseDate": "1939-04-14"
+  },
+  {
+    "Id": 35,
+    "Title": "The Old Man and the Sea",
+    "AuthorId": 34,
+    "PageCount": 127,
+    "ReleaseDate": "1952-09-01"
+  },
+  {
+    "Id": 36,
+    "Title": "The Hound of the Baskervilles",
+    "AuthorId": 35,
+    "PageCount": 180,
+    "ReleaseDate": "1902-08-25"
+  },
+  {
+    "Id": 37,
+    "Title": "The Princess Bride",
+    "AuthorId": 36,
+    "PageCount": 496,
+    "ReleaseDate": "1973-09-01"
+  },
+  {
+    "Id": 38,
+    "Title": "The Jungle Book",
+    "AuthorId": 37,
+    "PageCount": 212,
+    "ReleaseDate": "1894-05-17"
+  },
+  {
+    "Id": 39,
+    "Title": "The Wind in the Willows",
+    "AuthorId": 38,
+    "PageCount": 256,
+    "ReleaseDate": "1908-10-01"
+  },
+  {
+    "Id": 40,
+    "Title": "The War of the Worlds",
+    "AuthorId": 39,
+    "PageCount": 206,
+    "ReleaseDate": "1898-01-01"
+  },
+  {
+    "Id": 41,
+    "Title": "Another Book by Author 36",
+    "AuthorId": 36,
+    "PageCount": 300,
+    "ReleaseDate": "1980-03-15"
+  },
+  {
+    "Id": 42,
+    "Title": "The Sequel by Author 37",
+    "AuthorId": 37,
+    "PageCount": 250,
+    "ReleaseDate": "1900-11-11"
+  },
+  {
+    "Id": 43,
+    "Title": "Author 38's Collection",
+    "AuthorId": 38,
+    "PageCount": 350,
+    "ReleaseDate": "1915-04-05"
+  },
+  {
+    "Id": 44,
+    "Title": "Another Great Work by Author 39",
+    "AuthorId": 39,
+    "PageCount": 280,
+    "ReleaseDate": "1905-07-20"
+  },
+  {
+    "Id": 45,
+    "Title": "Another Book by Author 1",
+    "AuthorId": 1,
+    "PageCount": 300,
+    "ReleaseDate": "1930-05-15"
+  },
+  {
+    "Id": 46,
+    "Title": "The Sequel by Author 2",
+    "AuthorId": 2,
+    "PageCount": 250,
+    "ReleaseDate": "1965-11-11"
+  },
+  {
+    "Id": 47,
+    "Title": "Author 3's Collection",
+    "AuthorId": 3,
+    "PageCount": 350,
+    "ReleaseDate": "1955-04-05"
+  }
+]
