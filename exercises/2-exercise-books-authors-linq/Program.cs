@@ -68,7 +68,7 @@ public class Program
     private static void newLine()
     {
         Console.ForegroundColor = ConsoleColor.Blue;
-        Console.WriteLine("===============================================================");
+        Console.WriteLine("======================================================================");
         Console.ResetColor();
     }
 
