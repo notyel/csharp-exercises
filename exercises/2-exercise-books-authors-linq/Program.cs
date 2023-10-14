@@ -19,34 +19,41 @@ public class Program
                 Converters = { new CustomDateTimeConverter() }
             };
 
-            var books = JsonSerializer.Deserialize<Book[]>(bookJson, options);
-            var authors = JsonSerializer.Deserialize<Author[]>(authorJson, options);
+            Book[]? books = JsonSerializer.Deserialize<Book[]>(bookJson, options);
+            Author[]? authors = JsonSerializer.Deserialize<Author[]>(authorJson, options);
 
-            // Ejemplo 1: Seleccionar libros con más de 150 páginas.
-            TitleExample("Ejemplo 1: Seleccionar libros con más de 150 páginas");
-            SelectLongBooks(books);
-            newLine();
+            if (books != null && authors != null) {
 
-            // Ejemplo 2: Seleccionar libros de un autor específico (por ejemplo, "F. Scott Fitzgerald").
-            TitleExample("Ejemplo 2: Seleccionar libros de un autor específico (por ejemplo, 'F.Scott Fitzgerald')");
-            string authorNameToFind = "F. Scott Fitzgerald";  // Cambiar al nombre del autor que buscas.
-            SelectBooksByAuthor(books, authors, authorNameToFind);
-            newLine();
+                // Ejemplo 1: Seleccionar libros con más de 150 páginas.
+                TitleExample("Ejemplo 1: Seleccionar libros con más de 150 páginas");
+                SelectLongBooks(books);
+                newLine();
 
-            // Ejemplo 3: Contar los libros y agruparlos por autor.
-            TitleExample("Ejemplo 3: Contar los libros y agruparlos por autor");
-            CountBooksByAuthor(books, authors);
-            newLine();
+                // Ejemplo 2: Seleccionar libros de un autor específico (por ejemplo, "F. Scott Fitzgerald").
+                TitleExample("Ejemplo 2: Seleccionar libros de un autor específico (por ejemplo, 'F.Scott Fitzgerald')");
+                string authorNameToFind = "F. Scott Fitzgerald";  // Cambiar al nombre del autor que buscas.
+                SelectBooksByAuthor(books, authors, authorNameToFind);
+                newLine();
 
-            // Ejemplo 4: Buscar un libro en específico por título.
-            TitleExample("Ejemplo 4: Buscar un libro en específico por título");
-            string bookTitleToFind = "1984";  // Cambiar al título del libro que buscas.
-            FindBookByTitle(books, authors, bookTitleToFind);
-            newLine();
+                // Ejemplo 3: Contar los libros y agruparlos por autor.
+                TitleExample("Ejemplo 3: Contar los libros y agruparlos por autor");
+                CountBooksByAuthor(books, authors);
+                newLine();
 
-            // Ejemplo 5: Encontrar los 5 libros con más páginas.
-            TitleExample("Ejemplo 5: Encontrar los 5 libros con más páginas");
-            FindTop5BooksByPageCount(books);
+                // Ejemplo 4: Buscar un libro en específico por título.
+                TitleExample("Ejemplo 4: Buscar un libro en específico por título");
+                string bookTitleToFind = "1984";  // Cambiar al título del libro que buscas.
+                FindBookByTitle(books, authors, bookTitleToFind);
+                newLine();
+
+                // Ejemplo 5: Encontrar los 5 libros con más páginas.
+                TitleExample("Ejemplo 5: Encontrar los 5 libros con más páginas");
+                FindTop5BooksByPageCount(books);
+            }
+            else
+            {
+                Console.WriteLine("No se pudieron cargar los datos de libros y autores desde los archivos JSON.");
+            }
         }
         catch (FileNotFoundException)
         {
